@@ -30,7 +30,7 @@ def find_repeating_and_missing(nums):
 
     return [xor_missing, xor_repeating]
 
-# Example usage:
+
 input_array = []
 a = int(input())
 for i in range(a):
